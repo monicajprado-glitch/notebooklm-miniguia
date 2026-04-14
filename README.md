@@ -1,15 +1,15 @@
-# 🚀 EVOLUÇÃO DOS LLMS  
-### 📖 Miniguia de Estudo com apoio de IA  
+# EVOLUÇÃO DOS LLMS  
+### Miniguia de Estudo com apoio de IA  
 
 ---
 
-## 🎯 CONTEXTO E OBJETIVOS  
+## CONTEXTO E OBJETIVOS  
 
 Este repositório foi desenvolvido como parte de um desafio prático com foco em aprendizagem utilizando Inteligência Artificial, com apoio do NotebookLM.
 
 **Tema:** Evolução dos Large Language Models (LLMs)
 
-### 🔍 Objetivos:
+### Objetivos:
 
 - Compreender a evolução dos modelos de linguagem ao longo do tempo  
 - Analisar os principais marcos tecnológicos (n-grams, RNNs, Transformers, GPTs)  
@@ -19,12 +19,12 @@ Este repositório foi desenvolvido como parte de um desafio prático com foco em
 
 ---
 
-> 💡 **INSIGHT:**  
+> **INSIGHT:**  
 > A qualidade das respostas da IA depende diretamente da qualidade dos prompts.
 
 ---
 
-## 📚 CURADORIA DE FONTES  
+## CURADORIA DE FONTES  
 
 | Fonte | Tipo | Link |
 |------|------|------|
@@ -34,13 +34,13 @@ Este repositório foi desenvolvido como parte de um desafio prático com foco em
 | Stanford NLP Resources | Conteúdo acadêmico | [Acessar](#) |
 | Relatórios de IA Generativa | Mercado | [Acessar](#) |
 
-📌 Todas as fontes foram utilizadas dentro do NotebookLM para geração de respostas e insights.
+Todas as fontes foram utilizadas dentro do NotebookLM para geração de respostas e insights.
 
 ---
 
-## 🧠 ENGENHARIA DE PROMPTS  
+## ENGENHARIA DE PROMPTS  
 
-### 🔹 Evolução dos Prompts
+### Evolução dos Prompts
 
 | Tipo | Prompt | Resultado |
 |------|--------|----------|
@@ -50,7 +50,7 @@ Este repositório foi desenvolvido como parte de um desafio prático com foco em
 
 ---
 
-### 🔹 Exemplos práticos
+### Exemplos práticos
 
 **Prompt inicial:**
 > Explique a evolução dos LLMs
@@ -79,14 +79,14 @@ Este repositório foi desenvolvido como parte de um desafio prático com foco em
 
 ---
 
-> ⚠️ **CICATRIZ (Aprendizado real):**  
+> **CICATRIZ (Aprendizado real):**  
 > Prompts vagos geram respostas genéricas — contexto e formato são essenciais.
 
 ---
 
-## 📖 MINIGUIA DE ESTUDO  
+## MINIGUIA DE ESTUDO  
 
-### 📝 Evolução dos LLMs  
+### Evolução dos LLMs  
 
 | Fase | Tecnologia | Características | Limitações |
 |------|------------|----------------|------------|
@@ -97,7 +97,7 @@ Este repositório foi desenvolvido como parte de um desafio prático com foco em
 
 ---
 
-### 📚 GLOSSÁRIO  
+### GLOSSÁRIO  
 
 | Termo | Definição |
 |------|----------|
@@ -109,7 +109,7 @@ Este repositório foi desenvolvido como parte de um desafio prático com foco em
 
 ---
 
-### 🔁 PROMPTS REUTILIZÁVEIS  
+### PROMPTS REUTILIZÁVEIS  
 
 - "Explique a evolução dos LLMs de forma simples e didática"  
 - "Crie uma linha do tempo dos avanços em NLP"  
@@ -119,7 +119,7 @@ Este repositório foi desenvolvido como parte de um desafio prático com foco em
 
 ---
 
-## 📊 APLICAÇÕES NO MERCADO  
+## APLICAÇÕES NO MERCADO  
 
 - Atendimento automatizado (chatbots)  
 - Análise de dados e geração de insights  
@@ -129,7 +129,7 @@ Este repositório foi desenvolvido como parte de um desafio prático com foco em
 
 ---
 
-## 🚀 CONCLUSÃO  
+## CONCLUSÃO  
 
 Este projeto demonstra como a combinação entre curadoria de conteúdo e engenharia de prompts potencializa o uso da IA como ferramenta de aprendizado.
 
