@@ -1,9 +1,11 @@
-# Miniguia de Estudo sobre Evolução dos LLMs com apoio de IA
-Este repositório foi desenvolvido como parte de um desafio prático com foco em aprendizagem utilizando Inteligência Artificial, especialmente com apoio do NotebookLM.
+# Evolução dos LLMs: Um Miniguia de Estudo com apoio de IA
 
-O tema escolhido foi A evolução dos LLMs, com o objetivo de:
+Este repositório foi desenvolvido como parte de um desafio prático com foco em aprendizagem utilizando Inteligência Artificial, com apoio do NotebookLM.
 
-Aprofundar o conhecimento sobre o assunto
-Explorar o uso de IA como ferramenta de estudo
-Desenvolver habilidades de engenharia de prompts
-Consolidar aprendizados em um material reutilizável
+O tema escolhido foi a evolução dos Large Language Models (LLMs), com o objetivo de:
+
+Compreender a evolução dos modelos de linguagem ao longo do tempo
+Analisar os principais marcos tecnológicos (ex: transformers, GPTs)
+Explorar como LLMs são treinados e aplicados no mercado
+Desenvolver habilidades de engenharia de prompts para estudo técnico
+Consolidar o aprendizado em um material estruturado e reutilizável
