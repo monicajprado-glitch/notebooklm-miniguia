@@ -1,4 +1,4 @@
-# estudo-ia-notebooklm-EvoluçãoLLMs
+# Miniguia de Estudo sobre Evolução dos LLMs com apoio de IA
 Este repositório foi desenvolvido como parte de um desafio prático com foco em aprendizagem utilizando Inteligência Artificial, especialmente com apoio do NotebookLM.
 
 O tema escolhido foi A evolução dos LLMs, com o objetivo de:
