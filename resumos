@@ -1,1 +1,25 @@
+Resumo Estruturado
 
+A evolução dos LLMs pode ser dividida em quatro grandes fases:
+
+1. Modelos Estatísticos (n-grams)
+
+Baseados em probabilidade
+Limitados por contexto curto
+
+2. Redes Neurais (RNNs, LSTMs)
+
+Melhor captura de contexto
+Problemas com memória de longo prazo
+
+3. Transformers (2017)
+
+Introdução do mecanismo de atenção
+Processamento paralelo
+Base dos modelos modernos
+
+4. LLMs modernos (GPT, BERT e derivados)
+
+Treinamento em larga escala
+Capacidade de geração de texto avançada
+Aplicações em diversas áreas (chatbots, análise de dados, automação)
